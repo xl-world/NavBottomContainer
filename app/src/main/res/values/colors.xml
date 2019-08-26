@@ -3,4 +3,17 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+
+    <!--底部导航栏标题选中颜色-->
+    <!--默认颜色-->
+    <color name="nav_title_color">#00A0FF</color>
+    <!--首页-->
+    <color name="nav_home_title_color">#FFC13B</color>
+    <!--分类-->
+    <color name="nav_category_title_color">#8A8BF2</color>
+    <!--我的-->
+    <color name="nav_mine_title_color">#00A0FF</color>
+    <!--底部导航栏标题未选中颜色-->
+    <color name="nav_title_color_normal">#B1000000</color>
 </resources>

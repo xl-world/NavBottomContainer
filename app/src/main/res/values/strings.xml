@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lottie底部导航栏</string>
+
+
+    <string name="nav_item_home">首页</string>
+    <string name="nav_item_category">分类</string>
+    <string name="nav_item_mine">我的</string>
 </resources>

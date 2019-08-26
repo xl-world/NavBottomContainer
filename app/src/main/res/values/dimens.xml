@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_view_title_text_size">12sp</dimen>
+    <dimen name="nav_view_bottom_width">24dp</dimen>
+    <dimen name="nav_view_bottom_height">24dp</dimen>
+</resources>

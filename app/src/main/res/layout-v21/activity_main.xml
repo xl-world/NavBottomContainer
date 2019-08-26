@@ -16,6 +16,7 @@
         android:clickable="true"
         android:focusable="true"
         android:background="#FAFFFFFF"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:elevation="12dp" />
 
 </RelativeLayout>
